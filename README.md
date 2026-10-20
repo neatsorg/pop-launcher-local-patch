@@ -67,3 +67,8 @@ rm -r ~/.local/share/pop-launcher/plugins/cosmic_toplevel
 ```
 
 その後ログインし直す。
+
+## ライセンス
+
+GPL-3.0-only。パッチの対象である pop-launcher の `plugins` クレートが GPL-3.0-only のため、
+それに合わせる（pop-launcher のリポジトリ全体は MPL-2.0 だが、プラグイン部分は異なる）。全文は `LICENSE`。
